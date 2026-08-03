@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Sulaiman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20PHP%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%2B+PHP);UI%2FUX+Designer;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
+<img src="https://www.magnific.com/free-photos-vectors/developer-banner" alt="Typing SVG" />
 
 <br/>
 
