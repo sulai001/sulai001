@@ -22,43 +22,6 @@ I enjoy building responsive and user-friendly web applications using modern web 
 * JWT
 * Git & GitHub
 
-### 🚀 Projects
-
-#### 📝 Sticky Notes App
-
-A note-taking web application with authentication and protected routes.
-
-**Technologies:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
-
-* User login and JWT authentication
-* Protected routes
-* Add, update, and delete notes
-* MongoDB database integration
-
-#### 🛒 E-Commerce Web App
-
-An academic e-commerce project built using React and the MERN technologies.
-
-**Technologies:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
-
-* Product catalog
-* Shopping cart
-* Secure authentication
-* RESTful APIs
-* Responsive UI
-
-#### 🏫 College Club Portal
-
-A team project for managing college club registrations.
-
-**Technologies:** PHP, MySQL, Bootstrap
-
-* Student login
-* Club listings
-* Seat allocation
-* CRUD operations
-* Admin dashboard
-
 ### 🎓 Education
 
 **M.Sc. Computer Science**
